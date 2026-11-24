@@ -1,0 +1,20 @@
+Have you heard the name of the app "Tallykhata"? i want to make a similiar app like it with which i can keep tracking of my business. all the data will be saved in the firebase. also i want to upload my new version name in the firebase and the user will get notification and force update option when they enters into the app. the user can use the app offline but when they will be connected to the internet, their data will be synchronized to the firebase. guide me step by step and help me build a perfect app like the one i mentioned "Tallykhata". I want to make it using Flutter and Dart Language so that i can build multi-Platform version from the same code. i dont have any idea about where to put the codes and what to do, so please give me proper codes so that i can just copy paste them into my files. The name of my app will be Hisab Khata. I want some extra exclusive features like:
+
+• Unlimited Transaction Entries. Record all daily business transactions without hitting entry limits.
+
+• Multi-Business Management. Manage up to 5 separate business or personal accounts within a single app.
+
+• Stock & Inventory Accounting. Track product quantities and total stock valuation in real time.
+
+• Group Tagada (Batch Reminders). Send payment reminder messages to multiple customers simultaneously instead of messaging them one by one.
+
+• Free Tally-Messages. Receive 25 complimentary Tally-Messages every month to send balance updates and payment links.
+
+• Downloadable Reports. Export and download monthly account statements to print or share directly with customers and suppliers via WhatsApp or imo.
+
+• Business Notes. Save digital notes directly inside the app to replace paper notebooks.
+
+. Reports for each customer / supplier, report for my cost & savings, Monthly report etc
+. Add app drawer in my App Where there will be some exclusive menu like Edit Profile where user can Add first name, last name, email, phone number, location, etc. Another menu named Settings, where user will get Dark mode enable/disable, change password, choose app language (Bangla, English), Next Menu will be About Developer where the user can know about the developer ( Name: Dr. MD. ASHIF IQBAL, DVM, MSc, BCS. Veterinary Surgeon, Maheshpur. Phone: 01711989236, Hometown: Kushtia), You can also add Version Name and finally at the bottom, add Logout Option.
+You can add more things if you wish.
+You should give me the codes and files not only the files of the lib folder but also the files of pubspec.yaml and AndroidManifest.xml and everything where i should change the code, give me the direct files so that i can directly delete and replace them. Also check the code throughly before giving them to me whether they work or not
